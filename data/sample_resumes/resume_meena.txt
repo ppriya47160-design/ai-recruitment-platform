@@ -1,0 +1,7 @@
+Meena Raj
+meena@example.com
+Skills
+Java, HTML, CSS, JavaScript, React, MySQL
+
+Projects
+Portfolio website using React. Library management app using Java and MySQL.

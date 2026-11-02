@@ -1,0 +1,5 @@
+AI/ML Developer (Fresher / 0-2 years)
+We are looking for an AI/ML developer to build LLM applications and RAG pipelines.
+Requirements: Python, machine learning, NLP, LLM, retrieval-augmented systems, FastAPI, Docker, Git, SQL.
+Nice to have: computer vision, vector database, AWS.
+You will build and deploy AI services and work with REST APIs.

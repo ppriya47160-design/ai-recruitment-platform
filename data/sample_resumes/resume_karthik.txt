@@ -1,0 +1,8 @@
+Karthik S
+karthik@example.com
+Skills
+Python, Machine Learning, Deep Learning, PyTorch, OpenCV, Git, Kubernetes, Docker, NLP, LLM
+
+Projects
+Wagon inspection: YOLO object detection with OpenCV, trained in PyTorch.
+Chatbot project using LLM and Python.

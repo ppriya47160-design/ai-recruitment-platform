@@ -1,0 +1,13 @@
+Arun Kumar
+arun@example.com | +91 98765 43210
+Anna University
+
+Skills
+Python, SQL, Git, Docker, FastAPI
+
+Projects
+Invoice RAG System: built retrieval-augmented generation pipeline with FAISS, LangChain and an LLM; exposed via FastAPI REST API and deployed with Docker.
+Sentiment Analyzer: NLP project using scikit-learn and Python.
+
+Experience
+ML intern 2025 - 2026
